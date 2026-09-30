@@ -12,7 +12,11 @@ RestoResa recherche des contributeurs pour :
 
 Tous les profils sont les bienvenus, que tu sois débutant·e ou expérimenté·e. Le plus important, c’est l’envie de construire quelque chose de collaboratif et utile. 
 
+<<<<<<< HEAD
 Comment contribuer ? Telle est la question.
+=======
+Comment contribuer ? Voici est la question.
+>>>>>>> 906eb16ac585670db5106257a98f6b68f791a0f8
 Choisis une tâche
 
 Commence par consulter les issues du projet.
