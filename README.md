@@ -116,6 +116,7 @@ Dans un véritable projet professionnel, un autre membre de l’équipe pourrait
 ## Auteurs
 
 * Berenice-Oravendis – Mainteneur principal
+* Julia
 * Contributions bienvenues via les pull requests !
 
 ## Licence
